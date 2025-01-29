@@ -1,0 +1,238 @@
+/*
+ * Add your CSS styles to this file.
+ */
+
+header {
+
+    background-color: #309df6; 
+    
+}
+ h1.site-title {
+
+    color:white; 
+    font-family: Roboto;
+    font-weight: 100;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    height: 45px;
+    margin: auto;
+
+ }
+
+ a:link {
+     text-decoration: none;
+ }
+ a:visited {
+     color: #08070d;
+ }
+ a:hover {
+     color: #54a3e5;
+ }
+
+
+
+ .navbar{
+
+   background-color: white;
+   font-family: Roboto;
+   text-decoration: none;
+   
+   
+ 
+        
+ }
+
+ .navbar .navlist{
+    font-size: 19px;
+    height: 40px;
+    align-items: center;
+    margin: 0;
+    display: flex;
+    flex-wrap: none;
+    list-style: none;
+    font-weight: 500;
+    padding-left: 0px;
+    margin-left: 10px;
+
+    
+ }
+
+ .navitem {
+    width: 80px;
+    height: 35px;
+    padding-top: 10px;
+    text-align: center;
+    
+
+    
+     
+ }
+
+.navitem.navbar-search {
+    min-width: 260px;
+    text-align: left;
+    margin-left: auto;
+   
+    
+}
+
+#navbar-search-input {
+    font-family: Roboto;
+    Font-size: 17px;
+    padding-left: 2px;
+    color: #060606;
+    background-color:#eeeeee ;
+    height: 25px;
+    width: 170px;
+    border-radius: 2px;
+
+    border: none;
+   
+    
+}
+
+#navbar-search-button {
+    border: none;
+    background-color: white;
+    padding-bottom: 5px;
+    padding-left: 0px;
+    font-size: 16px;
+}
+
+#navbar-search-button:hover {
+    
+    cursor: pointer;
+    color: #309df6;
+}
+
+#navbar-search-input:focus {
+
+        background-color: white;
+        
+}
+
+
+
+.active {
+    height: 29px;
+    padding-top: 7px;
+    border-bottom-style: solid;
+    border-bottom-color: #309df6;
+  
+    
+    
+    
+}
+
+
+
+ body {
+   
+   background-color: #eeeeee;
+   font-family: Roboto;
+   color: #08070d;
+   font-size: 18px;
+   font-weight: 500;
+   margin: 0px;
+   min-width: 790px;
+ }
+ 
+ .twit-container {
+
+    margin: 5px;
+    min-height: 400px;
+    max-height: 700px;
+    max-width: 1900px;
+    padding-top: 50px;
+    padding-left: 150px;
+    display: flex;
+    flex-wrap: wrap;
+
+ }
+
+ .twit-container .twit {
+
+    background-color: white;
+    margin: 4px;
+    padding: 15px;
+    height: 110px;
+    
+    width: 450px;
+    border-width: 2px;
+    border-color:#dfdfdf;
+    border-radius: 3px; 
+    display: flex;
+    
+    
+
+  
+ }
+
+ .twit-icon {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 25px;
+    width: 30px;
+    align-self: flex-start;
+  
+    
+}
+
+.twit-content {
+    min-width: 322px;
+    flex: 1 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+
+    
+    
+
+}
+
+.twit-content .text {
+    flex: 1 300px;
+    
+    
+}
+
+.twit-content .twit-author {
+
+    margin-left: auto;
+    flex: 1 300px;
+    font-weight: bold;
+ 
+  
+    
+
+}
+
+
+ #create-twit-button {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    padding: 15px;
+    font-size: 35px;
+    border-radius: 50%;
+    color: white;
+    background-color: red;
+    border: none;
+    box-shadow: 4px 6px 12px rgba(0, 0, 0, 0.25);
+    
+ }
+
+
+
+ #create-twit-button:hover {
+    font-size: 40px;
+    background-color: #3aa6f7;
+    cursor: pointer;
+    
+ }
+    
+ 

@@ -1,0 +1,30 @@
+.outer-box {
+  border: 5px dashed black;
+}
+
+p {
+  background-color: lime;
+  width: 400px;
+  height: 200px;
+  padding: 20px;
+  /* padding: 20px 50px; */
+  /* padding: 10px 30px 50px 70px; */
+  border: 5px solid darkgray;
+  margin: 40px;
+}
+
+#special-p {
+  padding-left: 100px;
+  border-top: 20px dotted magenta;
+  margin-bottom: 200px;
+}
+
+.special-box {
+  background-color: lightblue;
+  border: 2px solid black;
+  display: inline-block;
+  width: 96px;
+  height: 96px;
+  padding: 10px;
+  margin: 20px;
+}

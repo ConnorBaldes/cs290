@@ -1,0 +1,308 @@
+[
+   {
+      "number": "2",
+      "name": "Fretwell, Cody",
+      "year": "So",
+      "position": "Mid",
+      "height": "5'8\"",
+      "weight": "175",
+      "hs": "West Linn",
+      "hometown": "West Linn, OR"
+   },
+   {
+      "number": "3",
+      "name": "Hansen, Gage",
+      "year": "Jr",
+      "position": "Mid",
+      "height": "5'8\"",
+      "weight": "170",
+      "hs": "Emerald Ridge High School",
+      "hometown": "Puyallup, WA"
+   },
+   {
+      "number": "5",
+      "name": "Weintraub, Adam",
+      "year": "Fr",
+      "position": "Mid",
+      "height": "5'8\"",
+      "weight": "150",
+      "hs": "De La Salle",
+      "hometown": "Plesaston, CA"
+   },
+   {
+      "number": "6",
+      "name": "Schirmer, Nick",
+      "year": "So",
+      "position": "LSM",
+      "height": "6'2\"",
+      "weight": "200",
+      "hs": "Alcalanes",
+      "hometown": "Lafayette, CA"
+   },
+   {   
+      "number": "7",
+      "name": "Chandler, Tavish",
+      "year": "Fr",
+      "position": "FOS",
+      "height": "5'8\"",
+      "weight": "160",
+      "hs": "Central Catholic",
+      "hometown": "Scappoose, OR"
+   },
+   {
+      "number": "8",
+      "name": "Bloch, Peter",
+      "year": "So",
+      "position": "Def",
+      "height": "6'1\"",
+      "weight": "175",
+      "hs": "Oregon Episcopal School",
+      "hometown": "Portland, OR"
+   },
+   {
+      "number": "9",
+      "name": "Warburton, Casey",
+      "year": "So",
+      "position": "Goal",
+      "height": "6'2\"",
+      "weight": "190",
+      "hs": "Sisters High School",
+      "hometown": "Sisters, OR"
+   },
+   {
+      "number": "10",
+      "name": "Baldes, Connor",
+      "year": "So",
+      "position": "DM",
+      "height": "6'0\"",
+      "weight": "155",
+      "hs": "Tigard",
+      "hometown": "Tigard, OR"
+   },
+   {
+      "number": "11",
+      "name": "Leitherer, Derek",
+      "year": "So",
+      "position": "Att",
+      "height": "6'0\"",
+      "weight": "180",
+      "hs": "Tigard",
+      "hometown": "Tigard, OR"
+   },
+   {
+      "number": "12",
+      "name": "Pare, Louis",
+      "year": "Jr",
+      "position": "Def",
+      "height": "5'8",
+      "weight": "160",
+      "hs": "Saint Francis",
+      "hometown": "Los Alto, CA"
+   },
+   {
+      "number": "13",
+      "name": "Jaszewski, Mike",
+      "year": "Fr",
+      "position": "LSM",
+      "height": "6'2\"",
+      "weight": "165",
+      "hs": "Canby",
+      "hometown": "Canby, OR"
+   },
+   {
+      "number": "14",
+      "name": "Hockman, Matthew",
+      "year": "Sr",
+      "position": "Mid",
+      "height": "6'0\"",
+      "weight": "195",
+      "hs": "Beaverton",
+      "hometown": "Beaverton, OR"
+   },
+   {
+      "number": "15",
+      "name": "Ward, Jason",
+      "year": "Fr",
+      "position": "Mid",
+      "height": "5'10\"",
+      "weight": "185",
+      "hs": "Summit",
+      "hometown": "Bend, OR"
+   },
+   {
+      "number": "16",
+      "name": "Brown, David",
+      "year": "Fr",
+      "position": "DM",
+      "height": "5'9",
+      "weight": "155",
+      "hs": "Jesuit",
+      "hometown": "Lake Oswego, OR"
+   },
+   {   
+      "number": "18",
+      "name": "Cornelius, Seth",
+      "year": "So",
+      "position": "Def",
+      "height": "5'10\"",
+      "weight": "185",
+      "hs": "West Linn",
+      "hometown": "West Linn, OR"
+   },
+   {
+      "number": "19",
+      "name": "Haralabatos, Zach",
+      "year": "Jr",
+      "position": "Goal",
+      "height": "5'9\"",
+      "weight": "155",
+      "hs": "Lakeridge",
+      "hometown": "Lake Oswego, OR"
+   },
+   {
+      "number": "20",
+      "name": "Sharpe, Louden",
+      "year": "Fr",
+      "position": "Def",
+      "height": "6'3\"",
+      "weight": "165",
+      "hs": "Tigard",
+      "hometown": "Tigard, OR"
+   },
+   {
+      "number": "22",
+      "name": "Gwyn, Conor",
+      "year": "Jr",
+      "position": "Att",
+      "height": "5'8\"",
+      "weight": "170",
+      "hs": "La Salle High School",
+      "hometown": "Portland, OR"
+   },
+   {
+      "number": "23",
+      "name": "Bull, Parker",
+      "year": "Sr",
+      "position": "Mid",
+      "height": "5'10\"",
+      "weight": "185",
+      "hs": "Aloha",
+      "hometown": "Aloha, OR"
+   },
+   {
+      "number": "24",
+      "name": "Fleming, Ethan",
+      "year": "Jr",
+      "position": "Att",
+      "height": "6'0\"",
+      "weight": "185",
+      "hs": "Timberline",
+      "hometown": "Boise, ID"
+   },
+   {
+      "number": "25",
+      "name": "St. George, Thomas",
+      "year": "Fr",
+      "position": "DM",
+      "height": "5'9\"",
+      "weight": "170",
+      "hs": "Crean Lutheran High School",
+      "hometown": "Tustin, CA"
+   },
+   {
+      "number": "26",
+      "name": "DiMariano, Dominic",
+      "year": "Jr",
+      "position": "Mid",
+      "height": "5'11\"",
+      "weight": "185",
+      "hs": "Semi Valley",
+      "hometown": "Semi Valley, CA"
+   },
+   {
+      "number": "27",
+      "name": "Therrow, Jake",
+      "year": "So",
+      "position": "LSM",
+      "height": "6'2\"",
+      "weight": "215",
+      "hs": "Jesuit",
+      "hometown": "Beaverton, OR"
+   },
+   {
+      "number": "33",
+      "name": "Wujek, Joe",
+      "year": "So",
+      "position": "Mid",
+      "height": "6'1\"",
+      "weight": "180",
+      "hs": "Canby",
+      "hometown": "Canby, OR"
+   },
+   {
+      "number": "35",
+      "name": "Sinks, Nathan",
+      "year": "Fr",
+      "position": "Def",
+      "height": "6'2\"",
+      "weight": "155",
+      "hs": "Ridgefield43",
+      "hometown": "Ridgefield, WA"
+   },
+   {
+      "number": "38",
+      "name": "Loehner, Dawson",
+      "year": "Jr",
+      "position": "Def",
+      "height": "6'0\"",
+      "weight": "190",
+      "hs": "West Linn",
+      "hometown": "West Linn, OR"
+   },
+   {
+      "number": "44",
+      "name": "Braun, Octavius",
+      "year": "Fr",
+      "position": "DM",
+      "height": "6'1\"",
+      "weight": "175",
+      "hs": "Mountain View",
+      "hometown": "Redmond, OR"
+   },
+   {
+      "number": "45",
+      "name": "Karkauer, AJ",
+      "year": "So",
+      "position": "Def",
+      "height": "6'2\"",
+      "weight": "190",
+      "hs": "West Linn",
+      "hometown": "West Linn, OR"
+   }   
+]
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+      	   
+
+
+       
