@@ -1,6 +1,4 @@
-# Assignment 5
-**Assignment and Code Blog entry due at 11:59pm on Monday, 6/1/2020**<br/>
-**Demo due by 5:00pm on Friday, 6/12/2020**
+# Express Serving and Handlebars Templating
 
 The goal of this assignment is to start working with Handlebars and Express.  The code that's currently in this repo implements a site that's served completely statically.  Specifically, there is a directory `public/` that contains a number of static files that are served by a simple Express server in `server.js`.  Your job in this assignment is to templatize this existing site.  Specifically, you must complete the following tasks:
 
@@ -57,40 +55,3 @@ Finally, use the twit template you implemented in step 1 to create a new route t
     * The "create twit" modal and its backdrop.
 
   * For full credit, you should use the same template to render both your root path `/` and the `/twits/<n>` path.  You can still earn partial credit by implementing separate templates for each of these paths.
-
-
-## Code Blog
-
-Add an entry to your Code Blog reflecting on your experience with this assignment and publish the new entry.  Here are some questions you could answer (though these aren't the only ones):
-
-  * What was challenging about the assignment, and what specific kinds of problems did you have.  How did you solve those problems?
-
-  * What did you learn from the assignment?  Were there any special insights you had?  What did you find that you already knew?
-
-  * What kinds of resources were helpful for completing the assignment?  Specific websites?  Lectures?  The class Piazza forum?  The TAs?  How did you use each of these resources?
-
-  * What are one or two things you had to Google to complete the assignment?
-
-## Submission
-
-As always, we'll be using GitHub Classroom for this assignment, and you will submit your assignment via GitHub.  Just make sure your completed files are committed and pushed by the assignment's deadline to the master branch of the GitHub repo that was created for you by GitHub Classroom.  A good way to check whether your files are safely submitted is to look at the master branch your assignment repo on the github.com website (i.e. https://github.com/osu-cs290-sp20/assignment-5-YourGitHubUsername/). If your changes show up there, you can consider your files submitted.
-
-In addition to submitting your assignment via GitHub, you must submit the URL to your code blog entry (e.g. http://web.engr.oregonstate.edu/~YOUR_ONID_ID/cs290/blog.html) via Canvas by the due date specified above.  Please re-submit your code blog URL even if you published your new post at the same URL you've been using for your code blog.
-
-## Grading criteria
-
-The assignment is worth 100 points total:
-
-  * 25 points: the client-side JS uses a pre-compiled twit template to insert new twits, as described above
-
-  * 20 points: the server uses your twit template as a partial within a larger template to render the page of all twits on the root path `/`, as described above
-
-  * 10 points: the server uses a template to render the 404 page, as described above
-
-  * 25 points: the server renders a page displaying a single twit on the path `/twits/<n>`, as described above
-
-  * 10 points: the site is fully templatized, i.e. no HTML code is duplicated; re-used components of the site are written in partials, and the HTML skeleton common to every page is written in a layout
-
-  * 10 points: the same template is used to render both the page displaying all twits (i.e. `/`) and the page displaying a single twit (i.e. `/twits/<n>`)
-
-In addition to your programming assignment grade, you will receive a pass/fail grade for your code blog entry, included in the code blog portion of your grade.
