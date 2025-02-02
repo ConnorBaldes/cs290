@@ -1,6 +1,6 @@
-# CS291: Web Development
+# CS290: Web Development
 
-CS291 introduces the fundamental technologies and concepts behind modern web development. This course covers both **client-side** and **server-side** development, focusing on creating interactive, scalable, and maintainable web applications. The projects in this repository provide hands-on experience with HTML, CSS, JavaScript, Node.js, Express, and database interactions.
+CS290 introduces the fundamental technologies and concepts behind modern web development. This course covers both **client-side** and **server-side** development, focusing on creating interactive, scalable, and maintainable web applications. The projects in this repository provide hands-on experience with HTML, CSS, JavaScript, Node.js, Express, and database interactions.
 
 ## Key Topics
 - **HTML & CSS**: Structuring and styling web pages.
@@ -23,7 +23,7 @@ Upon completion of this course, one will be able to:
 ## Repository Structure
 The repository is organized into projects, each focusing on different aspects of web development:
 ```
-cs291/ 
+cs290/ 
 │── README.md 
 │── .git/ 
 |── explorations/
