@@ -38,7 +38,7 @@ cs291/
 ## Projects
 
 
-### [**Styling with CSS**](./projects/styling_with_css/README.md)
+### [**Styling with CSS**](./projects/styling_with_css/)
 Located in: `projects/styling_with_css/`
 
 This project focuses on styling static web pages using **CSS** to improve layout, typography, and responsiveness.
@@ -58,7 +58,7 @@ This project focuses on styling static web pages using **CSS** to improve layout
 
 ---
 
-### [**Client-Side JavaScript**](./projects/client_side_js/README.md)
+### [**Client-Side JavaScript**](./projects/client_side_js/)
 Located in: `projects/client_side_js/`
 
 This project introduces **client-side scripting** to add interactivity and dynamic content to web pages.
@@ -78,7 +78,7 @@ This project introduces **client-side scripting** to add interactivity and dynam
 
 ---
 
-### [**Native Node.js File Serving**](./projects/native_node_js_file_serving/README.md)
+### [**Native Node.js File Serving**](./projects/native_node_js_file_serving/)
 Located in: `projects/native_node_js_file_serving/`
 
 This project involves **building a basic HTTP server** in **Node.js** to serve static content.
@@ -97,7 +97,7 @@ This project involves **building a basic HTTP server** in **Node.js** to serve s
 
 ---
 
-### [**Express Serving & Handlebars Templating**](./projects/express_serving_and_handlebars_templating/README.md)
+### [**Express Serving & Handlebars Templating**](./projects/express_serving_and_handlebars_templating/)
 Located in: `projects/express_serving_and_handlebars_templating/`
 
 This project introduces **Express.js**, a web framework for **handling server-side routing** and **dynamic content rendering** with Handlebars.
